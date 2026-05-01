@@ -7,22 +7,22 @@ const education = [
   {
     school: "EHEI (École des Hautes Études d'Ingénierie)",
     degree: "Engineering in Computer Science",
-    date: "2024 - 2027",
-    location: "Oujda",
-    level: "Level 30 Enchantment"
+    date: "2024 - Present (Expected 2027)",
+    location: "Oujda, MA",
+    level: "Level 50 Enchantment"
   },
   {
     school: "OFPPT",
     degree: "Full-Stack Digital Development",
     date: "2022 - 2024",
-    location: "Oujda",
+    location: "Oujda, MA",
     level: "Level 20 Enchantment"
   },
   {
     school: "Lycée Mohamed 6",
     degree: "Bac Electrical Engineering (IT & Networks)",
     date: "2021 - 2022",
-    location: "Oujda",
+    location: "Oujda, MA",
     level: "Level 10 Enchantment"
   }
 ];

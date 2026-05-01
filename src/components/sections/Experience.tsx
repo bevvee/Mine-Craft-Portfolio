@@ -16,8 +16,8 @@ const experiences = [
     title: "IT Lead",
     company: "NASA Space Apps Challenge",
     date: "2024 - 2025",
-    location: "Remote/Event",
-    description: "Infrastructure coordination & technical support. Python, MongoDB, SQLite, PHP, Angular.",
+    location: "Oujda, MA",
+    description: "Infrastructure coordination & technical support.",
     xp: "+350 XP"
   },
   {
@@ -32,7 +32,7 @@ const experiences = [
     title: "Ambassador",
     company: "Human AI",
     date: "2023 - 2024",
-    location: "Remote",
+    location: "Oujda, MA",
     description: "Monthly AI workshops with Python & Laravel demos. Grew community participation.",
     xp: "+150 XP"
   }
@@ -60,7 +60,7 @@ export function Experience() {
               <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 bg-[#2a2a35] border-2 border-[#4b5563] shadow-[inset_-2px_-2px_0_rgba(0,0,0,0.3),inset_2px_2px_0_rgba(255,255,255,0.1)] relative">
                 
                 <div className="flex justify-between items-start mb-2 flex-col sm:flex-row sm:items-center gap-2">
-                  <h3 className="font-bold text-white text-lg">{exp.title}</h3>
+                  <h3 className="font-bold text-white text-xs">{exp.title}</h3>
                   <div className="flex items-center gap-1 bg-black/40 px-2 py-1 border border-white/10">
                     <Award className="w-3 h-3 text-green-400" />
                     <span className="font-display text-[8px] text-green-400">{exp.xp}</span>

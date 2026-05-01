@@ -29,12 +29,12 @@ export function Hero() {
           transition={{ duration: 0.5 }}
         >
           <h1 className="text-3xl md:text-5xl lg:text-7xl font-display text-white mb-6 mc-text-shadow-gold leading-tight tracking-wider">
-            MOHAMMED<br/>AMINE<br/>EL AAZZOUZI
+            MOHAMMED<br/>AMINE<br/>ELAAZZOUZI
           </h1>
           
           <div className="inline-block bg-black/60 px-6 py-3 border-2 border-white/20 mb-8">
             <h2 className="text-xl md:text-2xl text-green-400 font-mono font-bold mc-text-shadow">
-              Full-Stack & Mobile Developer
+              Software Engineer
             </h2>
           </div>
           
